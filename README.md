@@ -227,7 +227,7 @@ Example of a form;
 
 # Deployment 
 
-Deployed to heroku. See the [Coders Forum](https://appwebtech-coders-forum.herokuapp.com/) live web page. 
+Deployed to heroku. See the [Eternity note](https://appwebtech-eternity-note.herokuapp.com/) live web page. 
 
 # Developer
 
